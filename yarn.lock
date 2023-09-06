@@ -6772,7 +6772,12 @@
   "resolved" "https://registry.npmjs.org/pg-cloudflare/-/pg-cloudflare-1.1.1.tgz"
   "version" "1.1.1"
 
-"pg-connection-string@^2.6.1", "pg-connection-string@2.6.1":
+"pg-connection-string@^2.6.1", "pg-connection-string@^2.6.2":
+  "integrity" "sha512-ch6OwaeaPYcova4kKZ15sbJ2hKb/VP48ZD2gE7i1J+L4MspCtBMAx8nMgz7bksc7IojCIIWuEhHibSMFH8m8oA=="
+  "resolved" "https://registry.npmjs.org/pg-connection-string/-/pg-connection-string-2.6.2.tgz"
+  "version" "2.6.2"
+
+"pg-connection-string@2.6.1":
   "integrity" "sha512-w6ZzNu6oMmIzEAYVw+RLK0+nqHPt8K3ZnknKi+g48Ak2pr3dtljJW3o+D/n2zzCG07Zoe9VOX3aiKpj+BN0pjg=="
   "resolved" "https://registry.npmjs.org/pg-connection-string/-/pg-connection-string-2.6.1.tgz"
   "version" "2.6.1"
